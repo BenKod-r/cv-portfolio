@@ -1,0 +1,7 @@
+version: "3"
+services:
+  webserver:
+    image: khaleddwm/portfolio:v1.0
+    ports:
+      - "80:80"
+      - "443:443"
