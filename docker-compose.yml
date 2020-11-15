@@ -1,7 +1,12 @@
 version: "3"
 services:
   webserver:
-    image: khaleddwm/portfolio:v1.0
+    image: khaleddwm/cv-portfolio:v1.1
     ports:
       - "80:80"
       - "443:443"
+    volumes:
+      - etc_data:/etc
+
+volumes:
+  - etc_data: {}

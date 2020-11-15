@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <meta charset="utf-8" />
+        <meta charset="UTF-8" />
+        <title>Portfolio cv Benharrat Khaled. Developpeur d'applications web et web mobile.
+            Techno utilisé: php, javascript, symfony, mysql, postgresql, html, css, scss, bootsrap, sass, github...</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="Portfolio developpeur d'applications web et web mobile" />
         <meta name="author" content="Benharrat Khaled" />
-        <title>Portfolio developpeur d'applications web et web mobile, php, javascript, symfony, mysql, postgresql, html, css, scss, bootsrap, sass, github</title>
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon-circle.png" />
+        <link rel="icon" type="image/x-icon" href="/assets/img/favicon-circle.png" />
+
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -20,25 +24,25 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
                 <span class="d-block d-lg-none">Khaled Benharrat</span>
-                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="profil" /></span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/assets/img/profile.jpg" alt="profile" /></span>
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Coordonées</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Coordonnées</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#timeline">Chronologie</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projets</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Compétences</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Expérience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Éducation</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Intérêts</a></li>
                 </ul>
             </div>
         </nav>
         <!-- Page Content-->
         <section class="container pt-3">
-            <span class="container d-block d-lg-none"><img class="d-flex justify-content-center img-fluid img-profile rounded-circle mx-auto" src="assets/img/profile.jpg" alt="profil" /></span>
+            <span class="container d-block d-lg-none"><img class="d-flex justify-content-center img-fluid img-profile rounded-circle mx-auto" src="/assets/img/profile.jpg" alt="profile" /></span>
         </section>
         <div class="container-fluid p-0">
             <!-- About-->
@@ -48,19 +52,24 @@
                         Khaled
                         <span class="text-primary">Benharrat</span>
                     </h1>
+                    <h3>Développeur web PHP/JS Symfony</h3>
                     <div class="subheading mb-5">
                         105 rue Saint-François
                         37520 La Riche<br>
                         <a href="tel:+33762273223">(+33)7.62.27.32.23</a><br>
                         <a href="mailto:kaleddwm@benkod.fr">khaleddwm@benkod.fr</a>
                     </div>
-                    <p class="lead mb-5">Passionné par l'informatique et plus particulièrement par le développement web, je suis disponible afin d'étudier toutes possibiltés. Ayant pratiqué un sport collectif de haut niveau, j'ai pu développer des qualités de persévérance, de détermination et d’esprit d'équipe qui sont pour moi des atouts indispensables pour réussir à bien ma mission.
-                        Mes passions ont toujours été un moteur pour moi et le développement web est une révélation.</p>
+                    <p class="lead mb-5">
+                        Passionné par l'informatique et plus particulièrement par le développement web, je suis disponible afin d'étudier toutes possibilités.
+                        Ayant pratiqué un sport collectif de haut niveau, j'ai pu développer des qualités de persévérance, de détermination et d’esprit d'équipe qui sont pour moi des atouts indispensables pour mener à bien ma mission.
+                        Mes passions ont toujours été un moteur et le développement web est une révélation.
+                    </p>
                     <div class="social-icons d-flex justify-content-center d-lg-block">
-                        <a class="social-icon" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-twitter"></i></a>
-                        <a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="https://fr.linkedin.com/in/khaled-benharrat-54469a197?trk=profile-badge" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://github.com/benkod-r" target="_blank"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="https://gitlab.com/khaleddwm" target="_blank"><i class="fab fa-gitlab"></i></a>
+                        <a class="social-icon" href="https://twitter.com/benharratk37" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="https://fr-fr.facebook.com/khaled.benharrat.33" target="_blank"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
             </section>
@@ -82,7 +91,12 @@
                                     <h4>2004</h4>
                                     <h4 class="subheading">Mon premier diplôme</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Ayant fait des études de comptabilité, j'obtins mon bac à l'âge de 19 ans! <br> Après ce succés, je décide de mettre mes études de côtés pour m'adonner à ma passion...</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Ayant fait des études de comptabilité, j'obtins mon bac à l'âge de 19 ans.<br>
+                                        Après ce succès, je décide de mettre mes études de côté pour m'adonner à ma passion.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
@@ -92,78 +106,127 @@
                                     <h4>2005-2007</h4>
                                     <h4 class="subheading">Mon premier contrat (CFA2)</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Ayant toujours été passionné par le sport, j'ai commencé à l'âge de 8 ans par le Karaté, un sport demandant discipline, concentration et determination. <br>
-                                    À l'âge de 17 ans et aprés 9 années de karaté, je décide de me lancer dans le football, un sport pour lequel ma passion était totale. Je gravis vite les échelons et décroche mon premier contrat à l'age de 21 ans...</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Ayant toujours été passionné par le sport, j'ai commencé à l'âge de 8 ans par le karaté,
+                                        un sport demandant discipline, concentration et détermination.<br>
+                                        Puis à 17 ans et après 9 années de karaté, je décide de me lancer dans le football,
+                                        un sport pour lequel ma passion était totale.
+                                        Je gravis vite les échelons et décroche mon premier contrat à l'âge de 21 ans. J'aime repousser mes limites,
+                                        mieux vaut tard que jamais!
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/football-viry.png" alt="football-viry" /></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4>2007-2008</h4>
+                                    <h4 class="subheading">Ma première aventure (CFA2)</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Je fais mes premières armes en région parisienne, un championnat rude, difficile.
+                                        La région parisienne est souvent réputée pour avoir le championnat le plus difficile de France.
+                                        Je suis animé par les challenges et ce fut une excellente formation.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/football-tours.png" alt="football-tours" /></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
+                                    <h4>2008-2011</h4>
+                                    <h4 class="subheading">Mon premier titre (CFA2/L2)</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Fort de cette aventure en région parisienne, j'ai le bonheur de défendre les couleurs de ma ville natale.<br>
+                                        Ce fut mes plus belles années en tant que footballeur, avec un titre de champion,
+                                        quelques apparitions en L2 et surtout des rencontres inoubliables.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/football-granville.svg" alt="football-granville" /></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4>2011-2012</h4>
+                                    <h4 class="subheading">Mon premier projet (CFA)</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Après ces belles années tourangelles, j'avais besoin de m'inscrire dans un projet à long terme avec une équipe ambitieuse, mais les choses ne se passent pas toujours comme prévu.<br>
+                                        Nostalogique de ces belles années Tourangelles? Possible...<br>
+                                        Je décide aprés une belle saison de revenir dans ma région natale.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/football-avoine.svg" alt="football-avoine" /></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
+                                    <h4>2012-2015</h4>
+                                    <h4 class="subheading">Mes meilleures saisons (CFA2)</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Me voilà de retour au club qui m'a offert mon premier contrat.<br>
+                                        J'ai grandi, j'ai appris, j'ai mûri et j'ai acquis de l'expérience.
+                                        Je vis mes meilleures saisons statistiques.
+                                        Nous décrochons par deux fois le titre de champion et je finis deux fois meilleur buteur du championnat.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/football-versailles.jpg" alt="football-versailles" /></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4>2015-2018</h4>
+                                    <h4 class="subheading">Mes dernieres années (CFA2)</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Ma vie personnelle m'a conduit en région parisienne (encore une fois).<br>
+                                        Mes dernières années furent agréables mais avec un petit sentiment d'inachevé et il était grand temps de trouver un nouveau challenge et vivre de mes passions.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/wild-code-school.png" alt="wild-code-school" /></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
+                                    <h4>Mars-Juillet 2020</h4>
+                                    <h4 class="subheading">La révélation</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        Mon nouveau challenge? Devenir développeur web, une passion que j'ai toujours eu mais que je pensais inaccessible. J'ai la chance de suivre une formation à la <a href="https://www.wildcodeschool.com/fr-FR" target="_blank">wild code school</a> pour m'aider à acquérir de bonnes bases.<br>
+                                        Aujourd'hui avec l'envie, la passion et la détermination qui m'est propre, j'ai la conviction d'y arriver et je suis convaincu d'aller le plus loin possible.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/weecop.png" alt="weecop" /></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4>Depuis Août 2020</h4>
+                                    <h4 class="subheading">Ma première expérience</h4>
                                 </div>
-                                <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">
+                                        L'entreprise <a href="https://pro.weecop.fr/" target="_blank">Weecop</a> me donne la chance de découvrir ma première expérience professionnelle.
+                                        J'apprends énormément et je me rends compte que ce métier ouvre des perspectives immenses.
+                                        Apprendre tout au long de sa carrière est un grand privilège dans notre milieu.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
@@ -183,166 +246,141 @@
             </section>
             <hr class="m-0" />
 
-            <!-- Experience-->
-            <section class="resume-section" id="experience">
+            <!-- Projects-->
+            <section class="resume-section" id="projects">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Experience</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Junior Web Designer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Design Intern</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
-                    </div>
+                    <h2 class="mb-5">Projets réalisés ou en cours</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="far fa-handshake text-warning"></i></span>
+                            Elbaja boxing academy Tours<br>
+                            Association sportive de boxe et de remise en forme
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="far fa-handshake text-warning"></i></span>
+                            <a href="https://brocenscene.com" target="_blank">Brocenscene</a><br>
+                            Ventes de meubles et de décorations vintage
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-spinner text-success"></i></span>
+                            <a href="https://klarcool-groupe.com" target="_blank">Klarcool Groupe</a><br>
+                            Ventes de produits de climatisation écologique pour particuliers et professionnels
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-spinner text-success"></i></span>
+                            Medias Mobiles<br>
+                            Agence publicitaire mobile
+                        </li>
+                    </ul>
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Education-->
-            <section class="resume-section" id="education">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Education</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
-                            <p>GPA: 3.23</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
-                            <p>GPA: 3.56</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
-                    </div>
-                </div>
-            </section>
-            <hr class="m-0" />
+
             <!-- Skills-->
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <h2 class="mb-5">Compétences</h2>
+                    <div class="subheading mb-3">Langages et outils de programmation</div>
                     <ul class="list-inline dev-icons">
                         <li class="list-inline-item"><i class="fab fa-html5"></i></li>
                         <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-php"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-js"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-symfony"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-docker"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-ubuntu"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-github"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-gitlab"></i></li>
+                        <li class="list-inline-item"><i class="fa fa-database"></i></li>
                         <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Mobile-First, Responsive Design
+                            Application web responsive
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Browser Testing & Debugging
+                            Test et débogage sur plusieurs navigateurs
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Functional Teams
+                            Travail en équipe
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
+                            Développement Agile et Scrum
                         </li>
                     </ul>
                 </div>
             </section>
             <hr class="m-0" />
+
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Expérience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Développeur web junior</h3>
+                            <div class="subheading mb-3">Weecop</div>
+                            <p>
+                                Rédiger les lignes de codes nécessaires à la création d’un produit web, pouvant contenir du texte, des images, de la vidéo et/ou du son.<br>
+                                Appliquer les règles de navigation, créer des liens entre les pages.<br>
+                                Développer les interfaces.<br>
+                                Corriger et optimiser les fonctionnalités (qualité, charte graphique, ergonomie...).<br>
+                                Documenter les applications pour les développements ultérieurs et la mise en production.
+                            </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Depuis Août 2020</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Éducation</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Lycée François Clouet</h3>
+                            <div class="subheading mb-3">TOURS</div>
+                            <div>Bac professionnel spécialité comptabilité</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2000 - 2004</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Wild code school</h3>
+                            <div class="subheading mb-3">TOURS</div>
+                            <div>Titre professionnel développeur web et web mobile (niveau bac +2)</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Mars 2020 - Novembre 2020</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+
             <!-- Interests-->
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <h2 class="mb-5">Intérêts</h2>
+                    <p>
+                        En plus d'être développeur Web, j'aime la plupart de mon temps découvrir et apprendre.
+                        Je passe une grande partie de mon temps libre à explorer les dernières avancées technologiques dans le monde du développement Web, de l'I.A, des objets connectés...
+                    </p>
+                    <p>
+                        Je suis papa de deux magnifiques enfants et j'ai la chance de pouvoir passer de magnifiques moments avec ma famille...
+                    </p>
+                    <p class="mb-5">
+                        Ma passion pour le sport est presque vital pour moi, j'aime courir, me depenser...<br>
+                        Ce besoin m'offre un équilibre dans ma vie.
+                    </p>
                 </div>
             </section>
-            <hr class="m-0" />
-            <!-- Awards-->
-            <section class="resume-section" id="awards">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Awards & Certifications</h2>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
-                        </li>
-                    </ul>
-                </div>
-            </section>
-
         </div>
         <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

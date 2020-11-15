@@ -1,0 +1,4 @@
+/.idea
+/docker-compose.yml
+/Dockerfile
+/000-default.conf
