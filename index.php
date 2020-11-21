@@ -262,7 +262,7 @@
                             Ventes de meubles et de décorations vintage
                         </li>
                         <li>
-                            <span class="fa-li"><i class="fas fa-spinner text-success"></i></span>
+                            <span class="fa-li"><i class="far fa-handshake text-warning"></i></span>
                             <a href="https://klarcool-groupe.com" target="_blank">Klarcool Groupe</a><br>
                             Ventes de produits de climatisation écologique pour particuliers et professionnels
                         </li>
