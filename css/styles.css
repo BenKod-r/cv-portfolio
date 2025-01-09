@@ -10047,6 +10047,7 @@ p.lead {
 
 .img-profile {
   border: 0.5rem solid rgba(71, 82, 93, 0.8);
+  object-fit: cover;
 }
 
 @media (min-width: 992px) {
@@ -10069,6 +10070,7 @@ p.lead {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    object-fit: cover;
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -10098,8 +10100,22 @@ p.lead {
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
-  margin-right: 1.5rem;
+  margin-right: 0.5rem;
 }
+
+.name-title {
+  font-size: 5rem;
+}
+
+@media (min-width: 640px) {
+  .social-icons .social-icon {
+    margin-right: 1.5rem;
+  }
+  .name-title {
+    font-size: 6rem;
+  }
+}
+
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }

@@ -1,7 +1,7 @@
 version: "3"
 services:
   webserver:
-    image: khaleddwm/cv-portfolio:v1.1
+    image: khaleddwm/cv-portfolio:v1.2
     ports:
       - "80:80"
       - "443:443"
