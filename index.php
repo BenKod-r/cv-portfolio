@@ -136,7 +136,7 @@
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
                                         <h4>Janvier 2008 - juillet 2011</h4>
-                                        <h4 class="subheading">Champion de cœur (CFA2/L2)</h4>
+                                        <h4 class="subheading">Champion de cœur (Ligue2/CFA2)</h4>
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">
@@ -150,7 +150,7 @@
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
                                         <h4>Août 2011 - juillet 2012</h4>
-                                        <h4 class="subheading">Nouveau défi (CFA)</h4>
+                                        <h4 class="subheading">Nouveau défi (CFA/CFA2)</h4>
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">
@@ -174,11 +174,11 @@
                                 </div>
                             </li>
                             <li>
-                                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/football-versailles.jpg" alt="football-versailles" /></div>
+                                <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/timeline/football-versailles.jpg" alt="FC Versailles 78" /></div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
                                         <h4>Août 2015 - juillet 2018</h4>
-                                        <h4 class="subheading">Le dernier chapitre (CFA2)</h4>
+                                        <h4 class="subheading">Le dernier chapitre (CFA/CFA2)</h4>
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">
