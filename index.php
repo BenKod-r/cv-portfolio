@@ -36,7 +36,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projets</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Compétences</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Expérience</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Éducation</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Diplômes</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Intérêts</a></li>
                 </ul>
             </div>
@@ -533,7 +533,7 @@
             <!-- Education-->
             <section class="resume-section" id="education">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Éducation</h2>
+                    <h2 class="mb-5">Diplômes</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Wild code school</h3>
@@ -548,7 +548,7 @@
                             <div class="subheading mb-3">TOURS</div>
                             <div>BTS Gestion comptabilité</div>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">2004</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2006</span></div>
                     </div>
                 </div>
             </section>
