@@ -70,11 +70,11 @@
                         transformant chaque défi en victoire numérique.
                     </p>
                     <div class="social-icons d-flex justify-content-center d-lg-block">
-                        <a class="social-icon" href="https://fr.linkedin.com/in/%E2%9C%A8khaled-benharrat-54469a197" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="https://github.com/benkod-r" target="_blank"><i class="fa-brands fa-github"></i></a>
-                        <a class="social-icon" href="https://gitlab.com/khaleddwm" target="_blank"><i class="fa-brands fa-gitlab"></i></a>
-                        <a class="social-icon" href="https://twitter.com/benharratk37" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                        <a class="social-icon" href="https://fr-fr.facebook.com/khaled.benharrat.33" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a class="social-icon" href="https://www.linkedin.com/in/khaled-benharrat-symfony-php" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+<!--                        <a class="social-icon" href="https://github.com/benkod-r" target="_blank"><i class="fa-brands fa-github"></i></a>-->
+<!--                        <a class="social-icon" href="https://gitlab.com/khaleddwm" target="_blank"><i class="fa-brands fa-gitlab"></i></a>-->
+<!--                        <a class="social-icon" href="https://twitter.com/benharratk37" target="_blank"><i class="fa-brands fa-twitter"></i></a>-->
+<!--                        <a class="social-icon" href="https://fr-fr.facebook.com/khaled.benharrat.33" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>-->
                     </div>
                 </div>
             </section>
